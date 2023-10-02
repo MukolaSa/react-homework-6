@@ -1,0 +1,21 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .centered-container {
+    text-align: center;
+  }
+  
+  .color-button {
+    padding: 10px 20px;
+    font-size: 24px;
+    background-color: lightgray;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+  }
+  
